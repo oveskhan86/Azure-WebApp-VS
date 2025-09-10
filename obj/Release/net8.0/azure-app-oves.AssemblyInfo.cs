@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-oves")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4002c671b03d95b7e3cf0b44bb7026ebff038ba8")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-oves")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-oves")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

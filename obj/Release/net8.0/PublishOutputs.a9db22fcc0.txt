@@ -1,6 +1,11 @@
 /Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/publish/azure-app-oves
+/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/publish/publish_old/web.config
 /Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/publish/appsettings.Development.json
 /Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/publish/appsettings.json
+/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/publish/publish_old/appsettings.Development.json
+/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/publish/publish_old/appsettings.json
+/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/publish/publish_old/azure-app-oves.deps.json
+/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/publish/publish_old/azure-app-oves.runtimeconfig.json
 /Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/publish/azure-app-oves.dll
 /Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/publish/azure-app-oves.deps.json
 /Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/publish/azure-app-oves.runtimeconfig.json

@@ -28,8 +28,8 @@
 /Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/obj/Release/net8.0/azure-app-oves.pdb
 /Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/obj/Release/net8.0/azure-app-oves.genruntimeconfig.cache
 /Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/obj/Release/net8.0/ref/azure-app-oves.dll
-/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/bin/Release/net8.0/publish/web.config
-/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/bin/Release/net8.0/publish/appsettings.Development.json
-/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/bin/Release/net8.0/publish/appsettings.json
-/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/bin/Release/net8.0/publish/azure-app-oves.deps.json
-/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/bin/Release/net8.0/publish/azure-app-oves.runtimeconfig.json
+/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/bin/Release/net8.0/publish_old/web.config
+/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/bin/Release/net8.0/publish_old/appsettings.Development.json
+/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/bin/Release/net8.0/publish_old/appsettings.json
+/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/bin/Release/net8.0/publish_old/azure-app-oves.deps.json
+/Users/oveskhan/Desktop/Azure-Developer/azure-app-oves/bin/Release/net8.0/publish_old/azure-app-oves.runtimeconfig.json
