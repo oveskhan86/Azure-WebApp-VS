@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/azure-app-oves.props" />
-</Project>
