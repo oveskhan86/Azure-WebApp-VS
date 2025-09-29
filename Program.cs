@@ -1,6 +1,11 @@
+using azure_app_oves.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+var connectionString = builder.Configuration.GetConnectionString("azureConnectionString");
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connectionString));
 builder.Services.AddRazorPages();
 //new package for Azure application insights
 builder.Services.AddApplicationInsightsTelemetry();
